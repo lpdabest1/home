@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.956fad23.chunk.css",
+    "main.js": "/static/js/main.3eb9ca67.chunk.js",
+    "main.js.map": "/static/js/main.3eb9ca67.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.554504a0.js",
+    "runtime-main.js.map": "/static/js/runtime-main.554504a0.js.map",
+    "static/js/2.27abb272.chunk.js": "/static/js/2.27abb272.chunk.js",
+    "static/js/2.27abb272.chunk.js.map": "/static/js/2.27abb272.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.97d3d2f97e9f78d9c3744d9c0514e93a.js": "/precache-manifest.97d3d2f97e9f78d9c3744d9c0514e93a.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.956fad23.chunk.css.map": "/static/css/main.956fad23.chunk.css.map",
+    "static/js/2.27abb272.chunk.js.LICENSE.txt": "/static/js/2.27abb272.chunk.js.LICENSE.txt",
+    "static/media/IFIXIT Page.PNG": "/static/media/IFIXIT Page.bc004cd1.PNG",
+    "static/media/RenzoeBox Website.PNG": "/static/media/RenzoeBox Website.5bcb7dfa.PNG",
+    "static/media/Tech Doc.PNG": "/static/media/Tech Doc.429d9c1e.PNG",
+    "static/media/resume.pdf": "/static/media/resume.9d3da0e2.pdf",
+    "static/media/utsystem.png": "/static/media/utsystem.5a428310.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.554504a0.js",
+    "static/js/2.27abb272.chunk.js",
+    "static/css/main.956fad23.chunk.css",
+    "static/js/main.3eb9ca67.chunk.js"
+  ]
+}
